@@ -17,3 +17,9 @@ See https://github.com/FreeRDP/FreeRDP/issues/1612
 and https://github.com/FreeRDP/FreeRDP/issues/3003
 for interesting discussion about options.
 Maybe switch on "/sec:rdp" because of expired passwords.
+
+### Known Problems
+RDP password is visible via process table.
+I assume local users on the client-side to be trusted.
+
+yad field labels are in german.
